@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://dev.to/theoldzoom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="theoldzoom" height="30" width="40" /></a>
 <a href="https://twitter.com/theoldzoom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theoldzoom" height="30" width="40" /></a>
-<a href="https://discord.gg/HRCQkrBY9p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HRCQkrBY9p" height="30" width="40" /></a>
+<a href="https://discord.gg/TZygqwxbyq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TZygqwxbyq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
