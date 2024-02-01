@@ -5,17 +5,21 @@
 
 <p align="left"> <a href="https://twitter.com/theoldzoom" target="blank"><img src="https://img.shields.io/twitter/follow/theoldzoom?logo=twitter&style=for-the-badge" alt="theoldzoom" /></a> </p>
 
+- 🔭 I’m currently working on [ZBot, A Discord Bot](https://discord.gg/TZygqwxbyq)
+
 - 🌱 I’m currently learning **Discord.js, Express.js, Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheOldZoom?tab=repositories](https://github.com/TheOldZoom?tab=repositories)
 
-- ⚡ Fun fact **I am happy man.**
+- 💬 Ask me about **Discord.js V14**
+
+- ⚡ Fun fact **Everyone is always learning something. Nobody is knows everything that exists.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/theoldzoom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="theoldzoom" height="30" width="40" /></a>
 <a href="https://twitter.com/theoldzoom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theoldzoom" height="30" width="40" /></a>
-<a href="https://discord.gg/TZygqwxbyq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TZygqwxbyq" height="30" width="40" /></a>
+<a href="https://discord.gg/HRCQkrBY9p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HRCQkrBY9p" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
