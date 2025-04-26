@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/bAsQo.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/w0doq3yhfCkAAAAj/cant-hear-you-kanye-west.gif"  />
 
 ###
 
